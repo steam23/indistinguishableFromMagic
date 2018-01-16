@@ -175,3 +175,154 @@ and the smell of coffee invited her to her day. She got out of bed and
 walked over to the dresser and gave herself a long look in the mirror.
 It wasn't until she had put the pill into her mouth and had almost
 finished swallowing that she realized that she had made up her mind.
+
+\"*Hello! Look left to activate.*\"
+
+Dr. Mary had been staring at the strange little window in her lower left
+vision for a few moments. She had to admit to herself that she was a
+little nervous. She laughed at herself. She was no Luddite. She had
+gotten her first iPhone when she was 12 and she hadn\'t been without
+something like it ever since. This was different though, this was inside
+her. She thought about just chickening out and taking the black pill,
+but she knew that she was being childish and that she wouldn\'t forgive
+herself. She sighed and cast her gaze to the left.
+
+\"*Please enter your apple ID to continue.*\" She looked down and saw a
+keyboard in her lower vision. As she hunted and pecked her email address
+on to the keyboard, she found herself marveling at the design. How did
+they deal with saccades -- the tiny motions we make with our eyes all
+the time - to figure out what you were actually looking at? It had to be
+more than just where your pupils were pointed. The clinician in her was
+intrigued. Maybe the keyboard is just a prop and they\'re just trying to
+get you to focus on a letter at a time. She experimented, consciously
+not looking at the keyboard but instead just thinking of each letter. It
+worked!
+
+\"*Do you wish to enable location services?*\" This one gave her pause.
+There was a definite tradeoff here. It was one thing with her phone, she
+could turn it off any time she liked. The phone could, theoretically,
+not be on her person. This was different, she was telling her body to
+broadcast her location over the internet to a permanent record on
+Apple\'s servers. That just seemed a little weird to her. She knew,
+intellectually, that there was nothing that could come of that data. The
+Supreme Court had just recently upheld a ruling that location data was
+considered to be private and could not be used by police or anyone else
+under any circumstances. Also, it\'s not like it was any mystery where
+she\'d be. Home, office, home, rinse, repeat. Still. She selected
+\'no.\'
+
+\'*Do you wish to enable Siri*?\' This one she didn\'t even think about.
+She had grown up with Siri. Siri had helped her with study for her
+calculus exam. She loved all the little corny jokes they programmed into
+her. Even as Siri advanced in technology, they\'d never gone away from
+that.
+
+\"*Do you wish to send analytics to Apple to help improve this
+product?*\" Again, didn't even think about her answer. If Apple wanted a
+beta tester, they could bloody well pay her.
+
+She heard a chime in her ear and a message came up saying \"*Get
+Started.*\" Once clicked it gave way to a dock of apps in her lower
+right vision. It all looked strangely familiar. Anyone who had used an
+iPhone or other device in the last 30 years would have recognized the
+metaphors. There was a dock for frequently used apps, a screen with
+pages of apps, a bar at the top containing status information. Once she
+got used to seeing it there in the corner of her eye, she started
+wondering what she had gotten so worked up about.
+
+Of course, she knew, that was the idea. Give people something familiar
+to latch on to so the new wouldn't seem so threatening. Still she had to
+hand it to them, they knew their business.
+
+She noticed an alert jostling for her attention right off the bat. It
+was a message from Henry. She opened it up and felt a heart beat in her
+chest that wasn\'t her own. She rolled her eyes -- God he was such a
+cornball! She sent back \'*cute, but let\'s not make that a thing.*\'
+
+*\'What?!* \' came the sarcastic reply \'*You don\'t want to share a
+heartbeat with me? How can I go on?*\'
+
+\'*I\'m sure you\'ll do just fine.*\'
+
+\'*Want to meet me for lunch?*\'
+
+*\'Oh, I\'m really sorry but I can\'t! I have an ER rotation I\'m
+committed to.*\'
+
+\'*That\'s OK you can make it up to me by stopping at the butcher on the
+way home. Get me something yummy to cook.*\'
+
+\'Deal.\' If he was going to be a cornball, at least he was a cornball
+that could cook.
+
+She had another hour before she had to leave for the hospital. She
+cursed herself for agreeing to this rotation it would have been
+wonderful to share an elongated, boozy lunch with Henry -- but she knew
+it was good karma, and deep down she enjoyed it. It made her feel more
+like a doctor to be on the floor dealing with whatever came in.
+
+She started searching for some of the apps that she was used to, hoping
+that they\'d been brought over to the new systems. She was delighted to
+find her EHR client had recently updated. Now she could use her eyes to
+do facial recognition on a patient and access their online medical
+records (with their consent of course). She also installed a couple
+little casual games to keep her occupied in the car on the way. She
+installed a reader program that would project her news feeds and books
+into her vision. That one felt a little strange -- it was odd not to
+have to swipe something to turn a page.
+
+By the time she got to the hospital, she was pretty much up and running.
+She felt like she was keeping a secret from everyone, like she was a
+school girl who had figured out how to sneak her phone into class.
+
+She greeted the nurse at the duty station, \"Hi Frank, how\'s that elbow
+treating you?\"
+
+\"Better thanks! Been seeing a physiotherapist -- she\'s working me
+pretty hard but it seems to be doing the trick.\"
+
+\"Good to hear! What\'s it like in there today?\"
+
+\"Not too bad. The usual Saturday afternoon. There\'s a couple bad
+choices from last night that are just heading home, a few dumb mistakes
+from Saturday morning chores, the usual.\"
+
+\"Alright, well I better scrub down and get too it then!\"
+
+\"Knock \'em dead,\" he said with a wink.
+
+\"Generally something I try to avoid.\"
+
+Dr. Mary got into her scrubs and washed up. She got lost a moment in the
+rituals of preparing. She\'d been doing this since university and she
+always kept at least one rotation at the hospital just to keep herself
+grounded. She felt the warm water wash over her hands and the familiar
+feeling of her scrubs. The smells always brought her right back to her
+internship. Being a freshly minted doctor with a bad case of imposter
+syndrome. There was a kind of comfort to the continuity.
+
+She wandered into the ward and went into the first bed on her rounds.
+There was a woman lying there with a thousand mile stare. She had a
+fixed grin on her face. She looked like she was dressed to go out. No
+doubt she was one of those \"bad choices\" Frank was talking about. Mary
+took out her otoscope and shone it into her eyes, the pupils seemed
+nonresponsive. She looked at the chart at the foot of her bed -- no
+identification, preliminary blood work had come back clean. \"Huh,\"
+thought Dr. Mary \"I would have thought something would have popped up
+there.\"
+
+\"Can you hear my voice?\" Dr. Mary said in a friendly tone.
+
+There came a slow nod.
+
+\"Great!\" she said, \"Do you consent to releasing your medical history
+to me?\"
+
+Another slow nod. She had already fired up the EHR client which recorded
+the nod as consent. The system recognized the woman\'s face and in a few
+seconds data started filling Mary\'s console.
+
+\"Patient: Susan Ronald\
+Known Medical Conditions: None\
+Allergies: Pollen...\"
+
