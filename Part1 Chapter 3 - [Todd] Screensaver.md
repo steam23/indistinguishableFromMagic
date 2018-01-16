@@ -233,3 +233,154 @@ look in her eye.
 
 \'*Dude,* \' she sent on the thread \'*you made LSD with an off switch!
 That\'s amazing!*\'
+
+****
+
+\"Dude, we have to do something!\" Todd was not shouting at Dàwèi, but
+it was pretty close.
+
+\"I know! I\'m trying to figure out what,\" Dàwèi replied, trying and
+failing to keep his cool.
+
+It was Saturday around 10 in the morning. They\'d all gone to their
+respective houses the night before. Todd had been awoken by an email
+marked \'Urgent\' from Sue\'s new friend, Lily:
+
+\"I don\'t know what happened but Sue is in the hospital. We were at
+mine, keeping the party going and she kinda locked up. She couldn\'t
+talk to me or anything! I brought her over to the ER at St. Mike\'s.
+They have her in a bed. What was that you guys gave her?!!\"
+
+To say that Todd was completely freaking out would have been somewhat
+understating the case. He had grabbed a car and was banging on Dàwèi's
+door within 20 minutes of receiving the email.
+
+Dàwèi was pouring over screens of code trying to figure out what had
+happened. \"She must have crashed it, \"he said. \"That\'s the only
+thing that could have caused something like this. She\'s stuck in the
+fullscreen state.\"
+
+\"Well, fucking well unstick her!\"
+
+\"It\'s not that simple, Todd. She\'s going to have to reboot the OS and
+flush her cache.\"
+
+Todd was getting ready to yell again when he was momentarily taken
+aback. \"How do you reboot your nervous system?\" he said after he
+regained his composure a bit.
+
+\"Well, it\'s actually built into the system.\" Dàwèi said, happy to
+have something to latch on to. \"When you go to sleep, the system goes
+into a maintenance mode including a reboot during REM sleep. The cache
+dump is going to be a little trickier. She\'s going to have to run a
+script for that one.\"
+
+\"Wait, how are we going to get her a script to run.\" Todd said,
+\"She\'s totally off line.\"
+
+\"Yeah, that\'s the thing,\" Dàwèi said chagrined, \"I can run it for
+her but I\'m going to have to be on her local network.\"
+
+Todd could see another set of wheels turning in Dàwèi's mind between the
+words he was saying. If they could somehow manage to bull their way into
+the hospital and talk the doctor into letting him mess around with the
+code to fix Sue, his exploit would be totally burned and out in the
+open. The ramifications of that alone were enough to make Todd
+appreciate that his friend wasn\'t saying anything about it. Dàwèi might
+be a lot of things, but at least he wasn't a complete jerk.
+
+\"Do you have to work on the network, or can you do something ad hoc?\"
+Todd said, giving Dàwèi permission to think about it at least.
+
+\"I should be able to cover my tracks pretty well.\" Dàwèi smiled
+grateful for the consideration. \"Mad skillz, right!\"
+
+Todd called a car that picked them up in 10 minutes outside Dàwèi's
+apartment building. Dàwèi had packed his laptop and a portable antenna
+array into a bag. They stayed mostly silent on the way over. Todd stared
+out the window of the car, watching the buildings fly by. Dàwèi had his
+laptop open and was working on some code.
+
+Todd was trying to figure out how they were going to convince the
+hospital to let them set up an antenna array around Sue\'s bed. Getting
+in there was going to be tricky enough. It seemed like an impossible
+task, but they had to do something. Sue wouldn\'t have even been there
+if it hadn\'t been for him. When they finally got to the hospital, they
+rushed into the ER waiting room and saw Lily waiting there. She had the
+dazed and manic look of someone who hadn't slept because of a crisis.
+When she saw them, alternating waves of anger and relief broke over her
+face.
+
+\"There you are! What took you so long?\"
+
+\"I had to pick up Dàwèi first,\" Todd said defensively.
+
+\"You couldn\'t have had him meet you here?!\" Lily shot back.
+
+Todd had nothing to say to that. He had been in such a state of panic
+ever since getting her email. He slumped a little and said, \"that\...
+that would have been a better idea.\"
+
+Lily deflated a little at the admission. She sunk back into her chair.
+\"It\'s not like there\'s anything you could have done. They\'re not
+telling me anything. I can\'t even see her.\" There were tired tears
+welling in her eyes.
+
+\"Dàwèi thinks he might know what\'s going on. Can you tell us what
+happened?\"
+
+\"Well,\" she sighed, \"it\'s like I told you. She seemed super nice and
+really into me so we went back to mine after the club. We had another
+drink and I put some music on. We kinda started making out a bit and the
+next thing I know she\'s all smilexed out!\"
+
+Dàwèi banged his forehead with the palm of his hand \"Of course! A
+buffer overflow! Christ, what a rooky mistake!\" He quickly brought up
+another window in on his laptop and started furiously making adjustments
+in his code.\"
+
+\"Dude!\" Todd punched his friend in the arm. \"This is not a fucking
+beta test! Sue\'s in a hospital bed!\"
+
+Dàwèi looked up with a retort that died on his lips the second he saw
+Todd\'s face. \"Right...sorry.\"
+
+\"So can you fix it?\" Todd said.
+
+Dàwèi gave a little shrug, \"I\'m pretty sure I can. I have a little
+hack from a while back that can force a reboot. I should be able to
+inject a little boot-up script. Like I said before, I\'m going to need
+to be in the same room though and I\'ll need to set up an array.\"
+
+Lily got a discouraged look, \"they\'re never going to let you in there
+with all that stuff.\"
+
+Todd stood up and walked with determination to the triage desk. The
+person behind the desk was on a phone call so he had to wait a minute.
+His courage dissipated somewhat while she wrapped up her phone call.
+Suddenly he was painfully aware of how he looked. He\'d just thrown on
+the first clothes that had come to hand when he woke up which were the
+same he\'d worn to the club the night before. He was a rumpled mess and
+must have looked totally strung out.
+
+\"How can I help you,\" the nurse said with a mix of concern and
+caution.
+
+\"Um... you...\" he stammered, \"you have a patient by the name of Sue
+Ronald. We know what\'s wrong with her and we think we can help.\"
+
+\"Well, I\'m afraid I can\'t let you into the ward. I\'m really sorry.\"
+
+\"Oh.. OK Can we at least get a message to the doctor?\"
+
+\"Sure sweetie,\" she seemed genuinely pleased that Todd was asking for
+something she could actually do. She handed him a piece of paper and a
+pen and said \"just write it down here and I\'ll run it over to her
+right away.\"
+
+Todd was a little flummoxed to be confronted with a pen and paper for a
+moment, he hadn\'t written anything on paper in ages. Finally, he
+scribbled out \"Your patient has a problem with her iLace and we need to
+fix it. Please let us help.\" He hesitated for a moment wondering if the
+doctor would believe them. He hastily added \"if you text me I can show
+you proof\" and he wrote his number.
