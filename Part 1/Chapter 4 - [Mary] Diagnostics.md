@@ -1,4 +1,4 @@
-VI -- \[Mary\] Diagnostics
+VI - \[Mary\] Diagnostics
 --------------------------
 
 Dr. Mary was completely baffled. The girl's toxicology screen had come
