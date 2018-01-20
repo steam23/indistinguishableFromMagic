@@ -1,4 +1,4 @@
-V \[Alexei\] -- Pen Test
+V \[Alexei\] - Pen Test
 ========================
 
 Alexei Kuzmich opened returned from the fridge with a fresh diet Dr.
