@@ -301,7 +301,7 @@ virtual machine, his mind kept going back to the metaphor problem. He
 still wasn\'t convinced that the VR headset was the right model, but he
 felt intuitively that it was going in the right direction.
 
-Something tickled the back of his brain about a thing he had read a
+In the bac of his mind, something sparked about a thing he had read a
 while back. It was about how medieval illiterate farmers would have
 these amazing memories and could remember things that literate people
 would need to have books and books to keep notes for. A \"memory
